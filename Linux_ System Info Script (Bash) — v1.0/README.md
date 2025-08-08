@@ -6,7 +6,7 @@ Perfect for quick diagnostics or as a portfolio-friendly Linux scripting project
 
 ---
 
-## 📌 Features
+## Features
 - **OS & Kernel**: Hostname, Kernel, Architecture, Distro, Date/Time
 - **Hardware**: CPU model, total RAM, root disk size
 - **Network**: IPv4, default gateway, DNS (supports systemd-resolved)
@@ -15,7 +15,7 @@ Perfect for quick diagnostics or as a portfolio-friendly Linux scripting project
 
 ---
 
-## 📂 Requirements
+##  Requirements
 - Bash (>= 4)
 - `coreutils` (`df`, `free`, `uname`)
 - `iproute2` (`ip`)
@@ -24,7 +24,7 @@ Perfect for quick diagnostics or as a portfolio-friendly Linux scripting project
 
 ---
 
-## 🚀 Usage
+##  Usage
 1. Clone the repo:
    ```bash
    git clone https://github.com/<your-username>/sysinfo-script.git
